@@ -1,0 +1,6 @@
+framework module DBASRSDKLib {
+  umbrella header "DBASRSDKLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
