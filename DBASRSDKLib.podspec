@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'DBASRSDKLib'
-  s.version          = '1.2.1'
+  s.version          = '1.2.2'
   s.summary          = '语音识别'
   s.description      = <<-DESC
 流式语音识别iOSSDK，此库依赖于DBCommonLib
